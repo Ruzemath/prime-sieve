@@ -1,7 +1,7 @@
 # Simplified Prime Sieve
 
 ## Description:
-Using Scheme R5RS we built a simplified version of the prime sieve to get all prime numbers under N.
+A simplified version of the [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes), where you get all prime numbers under some positive number. It was built using Scheme R5RS in DrRacket
 
 ## Usage:
-Download [Dr Racket](https://racket-lang.org), select R5RS as your language, run the file and enter the command **(prime-sieve N)**, where N is any positive number.
+Download [DrRacket](https://racket-lang.org), select R5RS as your language, run the file and enter the command **(prime-sieve N)**, where N is any positive number.
